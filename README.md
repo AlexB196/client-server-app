@@ -1,2 +1,2 @@
-# client-server-app
+# client-server-app-Java
 Client Server chat application using Java
